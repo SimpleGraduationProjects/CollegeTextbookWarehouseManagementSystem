@@ -3,7 +3,7 @@ package Operatingdata;
 import java.sql.*;
 
  class Connect {
-    private String JDBC_URL = "jdbc:mysql://localhost:3306/graduation_manage";
+    private String JDBC_URL = "jdbc:mysql://localhost:3306/graduation_219_manage";
     private String JDBC_USER = "root";
     private String JDBC_PASSWORD = "123456";
     public static Connection conn;
